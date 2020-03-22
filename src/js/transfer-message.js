@@ -3,7 +3,7 @@ import PrintMessage from './print-message';
 import Crypton from './crypt';
 
 const localArrMessages = [];
-const urls = 'https://ahj-diplom-serv.herokuapp.com/';
+const urls = 'ahj-diplom-serv.herokuapp.com';
 
 export default class TransferMessage {
   constructor(crypton) {
